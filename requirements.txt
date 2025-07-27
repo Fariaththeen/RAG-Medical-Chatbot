@@ -1,0 +1,20 @@
+# Phase 2: Document Parsing
+PyMuPDF
+
+# Phase 3: Chunking
+langchain
+
+# Phase 4: Embedding
+sentence-transformers
+torch
+
+# Phase 5: Vector Store
+chromadb
+
+# Phase 8: Frontend
+streamlit
+
+# Phase 10: Language Model (Cloud)
+google-generativeai
+
+gpt4all
